@@ -7,7 +7,7 @@ contributor:
     - Bridgman, Lewis Jesse
     - Bridgeman, Lewis Jesse
     birthdate: 1857
-    deathdate: &id001 1931
+    deathdate: 1931
     gutenberg_agent_id: '8122'
     url: http://www.gutenberg.org/2009/agents/8122
 covers:
@@ -20,11 +20,13 @@ creator:
     - Fellows, Annie
     - Johnston, Annie Fellows
     birthdate: 1863
-    deathdate: *id001
+    deathdate: 1931
     gutenberg_agent_id: '3050'
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40463#The-Little-Colonel-s-Holidays
 gutenberg_issued: '2012-08-09'
 gutenberg_type: Text
 identifiers:
